@@ -1,0 +1,73 @@
+[
+  {
+    "question": "What is the name of the world’s largest hot desert, located in Africa?",
+    "A": "Sahara Desert",
+    "B": "Gobi Desert",
+    "C": "Kalahari Desert",
+    "D": "Atacama Desert",
+    "answer": "A"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "A": "Nile",
+    "B": "Amazon",
+    "C": "Mississippi",
+    "D": "Yangtze",
+    "answer": "A"
+  },
+  {
+    "question": "Which continents are entirely in the Southern Hemisphere?",
+    "A": "Australia",
+    "B": "Africa",
+    "C": "South America",
+    "D": "Antarctica",
+    "answer": "AD"
+  },
+  {
+    "question": "What is the name of the highest uninterrupted waterfall in the world, located in Venezuela?",
+    "A": "Niagara Falls",
+    "B": "Victoria Falls",
+    "C": "Iguazu Falls",
+    "D": "Angel Falls",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following are European countries?",
+    "A": "Germany",
+    "B": "Brazil",
+    "C": "France",
+    "D": "China",
+    "answer": "AC"
+  },
+  {
+    "question": "What is the lowest point on Earth’s surface, located in the Dead Sea?",
+    "A": "Mariana Trench",
+    "B": "Challenger Deep",
+    "C": "Dead Sea Depression",
+    "D": "Salar de Uyuni",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is located on two continents?",
+    "A": "Istanbul",
+    "B": "Rome",
+    "C": "Athens",
+    "D": "Cairo",
+    "answer": "A"
+  },
+  {
+    "question": "Which countries are part of the Scandinavian Peninsula?",
+    "A": "Norway",
+    "B": "Denmark",
+    "C": "Sweden",
+    "D": "Finland",
+    "answer": "AC"
+  }
+]
+
+
+
+
+
+
+
