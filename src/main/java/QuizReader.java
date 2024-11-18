@@ -29,9 +29,17 @@ public class QuizReader {
             }.getType();
 
             // Read JSON file into a List<Question>
-            List<Question> questions = gson.fromJson(reader, questionListType);
+            List<Question> questionList = gson.fromJson(reader, questionListType);
 
-        return questions;
+        return questionList;
     }
 }
+
+
+
+
+
+
+
+
 

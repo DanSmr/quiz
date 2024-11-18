@@ -1,73 +1,74 @@
 [
   {
     "question": "What is the name of the world’s largest hot desert, located in Africa?",
-    "A": "Sahara Desert",
-    "B": "Gobi Desert",
-    "C": "Kalahari Desert",
-    "D": "Atacama Desert",
-    "answer": "A"
+    "answers": [
+      { "text": "Sahara Desert", "isCorrect": true },
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Kalahari Desert", "isCorrect": false },
+      { "text": "Atacama Desert", "isCorrect": false }
+    ]
   },
   {
     "question": "What is the longest river in the world?",
-    "A": "Nile",
-    "B": "Amazon",
-    "C": "Mississippi",
-    "D": "Yangtze",
-    "answer": "A"
+    "answers": [
+      { "text": "Nile", "isCorrect": true },
+      { "text": "Amazon", "isCorrect": false },
+      { "text": "Mississippi", "isCorrect": false },
+      { "text": "Yangtze", "isCorrect": false }
+    ]
   },
   {
     "question": "Which continents are entirely in the Southern Hemisphere?",
-    "A": "Australia",
-    "B": "Africa",
-    "C": "South America",
-    "D": "Antarctica",
-    "answer": "AD"
+    "answers": [
+      { "text": "Australia", "isCorrect": true },
+      { "text": "Africa", "isCorrect": false },
+      { "text": "South America", "isCorrect": false },
+      { "text": "Antarctica", "isCorrect": true }
+    ]
   },
   {
     "question": "What is the name of the highest uninterrupted waterfall in the world, located in Venezuela?",
-    "A": "Niagara Falls",
-    "B": "Victoria Falls",
-    "C": "Iguazu Falls",
-    "D": "Angel Falls",
-    "answer": "D"
+    "answers": [
+      { "text": "Niagara Falls", "isCorrect": false },
+      { "text": "Victoria Falls", "isCorrect": false },
+      { "text": "Iguazu Falls", "isCorrect": false },
+      { "text": "Angel Falls", "isCorrect": true }
+    ]
   },
   {
     "question": "Which of the following are European countries?",
-    "A": "Germany",
-    "B": "Brazil",
-    "C": "France",
-    "D": "China",
-    "answer": "AC"
+    "answers": [
+      { "text": "Germany", "isCorrect": true },
+      { "text": "Brazil", "isCorrect": false },
+      { "text": "France", "isCorrect": true },
+      { "text": "China", "isCorrect": false }
+    ]
   },
   {
     "question": "What is the lowest point on Earth’s surface, located in the Dead Sea?",
-    "A": "Mariana Trench",
-    "B": "Challenger Deep",
-    "C": "Dead Sea Depression",
-    "D": "Salar de Uyuni",
-    "answer": "C"
+    "answers": [
+      { "text": "Mariana Trench", "isCorrect": false },
+      { "text": "Challenger Deep", "isCorrect": false },
+      { "text": "Dead Sea Depression", "isCorrect": true },
+      { "text": "Salar de Uyuni", "isCorrect": false }
+    ]
   },
   {
     "question": "Which city is located on two continents?",
-    "A": "Istanbul",
-    "B": "Rome",
-    "C": "Athens",
-    "D": "Cairo",
-    "answer": "A"
+    "answers": [
+      { "text": "Istanbul", "isCorrect": true },
+      { "text": "Rome", "isCorrect": false },
+      { "text": "Athens", "isCorrect": false },
+      { "text": "Cairo", "isCorrect": false }
+    ]
   },
   {
     "question": "Which countries are part of the Scandinavian Peninsula?",
-    "A": "Norway",
-    "B": "Denmark",
-    "C": "Sweden",
-    "D": "Finland",
-    "answer": "AC"
+    "answers": [
+      { "text": "Norway", "isCorrect": true },
+      { "text": "Denmark", "isCorrect": false },
+      { "text": "Sweden", "isCorrect": true },
+      { "text": "Finland", "isCorrect": false }
+    ]
   }
 ]
-
-
-
-
-
-
-

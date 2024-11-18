@@ -1,39 +1,46 @@
+import java.util.List;
+
 public class Question {
     private String question;
-    private String A;
-    private String B;
-    private String C;
-    private String D;
-    private String answer;
+    private List<Answer> answers;
 
-    // Getters and setters
+    // Constructor
+    public Question(String questionText, List<Answer> answers) {
+        this.question = questionText;
+        this.answers = answers;
+    }
 
-    public String getQuestion() {
+    // Getter and Setter
+    public String getQuestionText() {
         return question;
     }
 
-    public String getA() {
-        return A;
+    public void setQuestionText(String questionText) {
+        this.question = questionText;
     }
 
-    public String getB() {
-        return B;
+    public List<Answer> getAnswers() {
+        return answers;
     }
 
-    public String getC() {
-        return C;
+    public void setAnswers(List<Answer> answers) {
+        this.answers = answers;
     }
 
-    public String getD() {
-        return D;
+    public boolean hasMultipleCorrectAnswers() {
+        int correctCount = 0;
+
+        for (Answer answer : answers) {
+            if (answer.isCorrect()) {
+                correctCount++;
+            }
+            if (correctCount > 1) {
+                return true;
+            }
+        }
+
+        return false;
     }
-
-    public String getAnswer() {
-        return answer;
-    }
-
-
-
 }
 
 
